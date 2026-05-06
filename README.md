@@ -81,6 +81,14 @@ Generate an error plot (Predicted vs Actual values) to:
 - Error plot comparing predicted vs actual values
 - Summary of findings and insights
 
+<img width="866" height="643" alt="HISTOGRAMS" src="https://github.com/user-attachments/assets/186b7164-653e-45f9-80a6-cd8b8a7fd845" />
+
+<img width="845" height="625" alt="CORRELATION MATRIX" src="https://github.com/user-attachments/assets/10182e20-f3b8-4fe7-b675-f4341189ffdd" />
+
+<img width="1181" height="645" alt="HISTPLOT" src="https://github.com/user-attachments/assets/4098d278-c8f9-492e-882d-fb1fa0aa5976" />
+
+<img width="1485" height="610" alt="ACTUAL VS PREDICTED" src="https://github.com/user-attachments/assets/b83700ed-3202-4402-a023-192eb11c042f" />
+
 ---
 
 ## Technologies Used
